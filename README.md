@@ -12,7 +12,7 @@ Testing on Blockspace Race network.
 ```
 pip install -r requirements.txt
 ```
-2) Specify in the ```envi.py``` in vartiable ```DEFAULT_NODE_URL``` address of the local node
+2) Specify in the ```envi.py``` in variable ```DEFAULT_NODE_URL``` address of the local node
 3) Run script:
 ```
 python main.py
